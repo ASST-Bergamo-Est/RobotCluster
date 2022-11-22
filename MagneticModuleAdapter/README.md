@@ -2,6 +2,8 @@
 
 Here you can find drawings of an adapter for 96-well micro plate to be used with the [Opentrons Magnetic Module](https://opentrons.com/modules/magnetic-module/).
 
+![Example of magnetic module mounting](assets/MagneticModuleAdapter_small.jpg)
+
 ## Why is this needed
 
 This adapter serve for mainly two purpose:
