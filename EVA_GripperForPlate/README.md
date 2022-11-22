@@ -11,13 +11,17 @@ Fingers are designed to be used with ANSI/SLAS plates, gripped on the short side
 
 ## Gripper
 
-Fingers are designed to be used with gripper equipped on the EVA: Zimmer GEP-2006IO-00-B-03 
+Fingers are designed to be used with gripper equipped on the EVA: **Zimmer GEP-2006IO-00-B-03** 
 
 
 ## 3D model
 
-The 3D model has been developed with Fusion360 software; 
-The model has to be printed in two parts:
-1. the main gripper, printed in hard plastic (we used PETG);
-2. two rubbery pad that has to be glued on the main gripper, to increase friction picking up plates (we used TPU95 for that).
-For both of the part an STL model is provided.
+The 3D model has been developed with Fusion360 software; each final finger is composed of two parts:
+1. the main gripper;
+2. two rubbery pad that have to be glued on the main gripper.
+
+## Materials
+
+For each finger you need: 
+- 1x main finger, printed in hard plastic eg. **PETG**;
+- 2x rubbery pads, printed in rubbery material to increase friction between fingers and plate, eg. **TPU95**.
