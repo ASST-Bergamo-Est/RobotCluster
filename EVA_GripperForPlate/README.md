@@ -2,7 +2,7 @@
 
 Here you can find 3D model and STL files to produce fingers for a gripper mounted on the EVA robot.
 
-![Final mounting of gripper and fingers](EVA_GripperForPlate.jpg)
+![Final mounting of gripper and fingers](assets/EVA_GripperForPlate_small.jpg)
 
 ## Why is this needed
 
