@@ -9,17 +9,17 @@ This expecially useful working with the Opentrons Thermocycler to decrease sampl
 
 ## 3D model
 You'll find two different 3D models that can be used in 4 configuration:
-1. top-left corner alignmen (adapter 1)
+1. top-left corner alignment (adapter 1)
 1. top-right corner alignment (adapter 2)
 1. bottom-left corner alignment (adapter 2)
 1. bottom-right corner alignment (adapter 1)
 
 Here some explanation images:
 
-![Top-left alignment](assets\top-left-slot-4.png)
-![Top-right alignment](assets\top-right-slot-4.png)
-![Bottom-left alignment](assets\bottom-left-slot-1.png)
-![Bottom-right alignment](assets\bottom-right-slot-1.png)
+![Top-left alignment](assets/top-left-slot-4.png)
+![Top-right alignment](assets/top-right-slot-4.png)
+![Bottom-left alignment](assets/bottom-left-slot-1.png)
+![Bottom-right alignment](assets/bottom-right-slot-1.png)
 
 ### Important note: 
 ### The labware is seen by OT as a normal labware occupying the assigned slot only. Please carefully check your labware disposition.
