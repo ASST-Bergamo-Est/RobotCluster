@@ -119,15 +119,15 @@ with open(filename, "r") as f:
 
 
     with open("customvertical_96_top_left_aligned.json", "w") as fp:
-        json.dump(get_updated_labware(labware, 11.24, 13.5, getUpdatedData("top", "left") ), fp)
+        json.dump(get_updated_labware(labware, 11.24, 13.5, getUpdatedData("top", "left") ), fp, ensure_ascii=False)
 
     with open("customvertical_96_bottom_left_aligned.json", "w") as fp:
-        json.dump(get_updated_labware(labware, 11.24, -28, getUpdatedData("bottom", "left")), fp)
+        json.dump(get_updated_labware(labware, 11.24, -28, getUpdatedData("bottom", "left")), fp, ensure_ascii=False)
 
     with open("customvertical_96_top_right_aligned.json", "w") as fp:
-        json.dump(get_updated_labware(labware, 54, 13.5, getUpdatedData("top", "right")), fp)
+        json.dump(get_updated_labware(labware, 54, 13.5, getUpdatedData("top", "right")), fp, ensure_ascii=False)
 
     with open("customvertical_96_bottom_right_aligned.json", "w") as fp:
-        json.dump(get_updated_labware(labware, 54, -28, getUpdatedData("bottom", "right")), fp)
+        json.dump(get_updated_labware(labware, 54, -28, getUpdatedData("bottom", "right")), fp, ensure_ascii=False)
 
 
